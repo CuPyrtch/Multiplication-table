@@ -31,5 +31,5 @@ for i in range(1, height+1):
     row = ""
     for j in range(1, width+1):
         multiple = i * j
-        row = row + "{0:>4}".format(multiple)
+        row = row + "{0:>3}".format(multiple)
     print(row)
