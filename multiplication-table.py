@@ -22,7 +22,7 @@ Height of multiplication table: 8
   8  16  24  32  40  48  56  64  72  80
 """
 widthstr = input("Width of multiplication table: ")
-heightstr = input("Height of the multiplication table: ")
+heightstr = input("Height of multiplication table: ")
 
 width = int(widthstr)
 height = int(heightstr)
